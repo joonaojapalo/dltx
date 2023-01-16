@@ -1,3 +1,5 @@
 __pycache__
 dltx.egg-info
 build/
+dist/
+*.pyc
