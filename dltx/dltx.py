@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__ = "Marcos Duarte <duartexyz@gmail.com>"
-__version__ = "DLT.py v.0.0.2 2023/01/13"
+__version__ = "DLT.py v.0.1.0 2023/01/16"
 
 
 import numpy as np

@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='dltx',
       version='0.1',
       description='Direct Linear Transform (DLT)',
-      url='http://github.com/joonaojapalo/dltx',
+      url='https://github.com/joonaojapalo/dltx',
       author='Marcos Duarte',
       author_email='duartexyz@gmail.com',
       maintainer='Joona Ojapalo',

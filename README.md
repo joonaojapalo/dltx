@@ -1,4 +1,4 @@
-# DLT
+# `dltx` package
 
 This package implements camera calibration and point reconstruction by *direct linear
 transformation* (DLT).
