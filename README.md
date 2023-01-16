@@ -1,7 +1,15 @@
 # dltx
 
+[![PyPI version](https://badge.fury.io/py/dltx.svg)](https://badge.fury.io/py/dltx)
+
 This package implements camera calibration and point reconstruction by *direct linear
 transformation* (DLT).
+
+## Installation
+
+```
+pip install dltx
+```
 
 ## Example
 
