@@ -4,7 +4,7 @@ with open("README.md") as fd:
     long_description = fd.read()
 
 setup(name='dltx',
-      version='0.1',
+      version='0.1.1',
       description='Direct Linear Transform (DLT)',
       long_description=long_description,
       long_description_content_type='text/markdown',
